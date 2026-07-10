@@ -42,6 +42,7 @@ const homePage = `<!doctype html>
   <body>
     <main>
       <h1>Hello from Node.js on Azure App Service</h1>
+        <h1>AZ App Services new Feature</h1>
       <p>This basic Node.js web app is ready to run on Azure App Service for Linux.</p>
       <p>We have Introducing New Features ion our website</p>
     </main>
